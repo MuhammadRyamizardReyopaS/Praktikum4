@@ -1,6 +1,6 @@
 # PRAKTIKUM 4
 
-## 4.1 TABEL PEGAWAI
+## 1 TABEL PEGAWAI
 
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 
@@ -34,7 +34,7 @@
 
 ![foto7](foto/foto7.png)
 
-## 4.2 TABEL HEWAN
+## 2 TABEL HEWAN
 
 1. Tampilkan jumlah hewan yang dimiliki setiap owner !
 
