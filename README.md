@@ -4,7 +4,7 @@
 
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 
-![foto3](foto1 (1).PNG)
+![foto3](foto1 (1).png)
 
 2. Tampilkan pegawai yang tunjangannya NULL !
 
