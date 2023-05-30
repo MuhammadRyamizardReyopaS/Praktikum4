@@ -4,11 +4,11 @@
 
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 
-foto1.png
+ foto1.
 
 2. Tampilkan pegawai yang tunjangannya NULL !
 
-![foto2](foto/foto2.png)
+![foto2] foto2.png
 
 3. Tampilkan pegawai yang tunjangannya NOT NULL !
 
